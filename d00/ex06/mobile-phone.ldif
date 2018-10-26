@@ -1,0 +1,4 @@
+dn: uid=ibohun,ou=july,ou=2018,ou=people,dc=unit,dc=ua
+changetype: modify
+add: mobile
+mobile: 0971014014

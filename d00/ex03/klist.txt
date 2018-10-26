@@ -1,0 +1,6 @@
+Credentials cache: API:767C7156-58E3-410F-A1FE-7ED7C53C5279
+        Principal: ibohun@UNIT.UA
+
+  Issued                Expires               Principal
+Jul 10 15:37:36 2018  Jul 11 01:37:36 2018  krbtgt/UNIT.UA@UNIT.UA
+Jul 10 15:39:40 2018  Jul 11 01:37:36 2018  host/vogsphere-2.unit.ua@UNIT.UA
